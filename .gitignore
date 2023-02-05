@@ -129,3 +129,5 @@ nix-rust/target
 result
 
 .vscode/
+
+.direnv/
